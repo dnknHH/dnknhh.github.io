@@ -1,2 +1,5 @@
 # dnknhh.github.io
-Personal pages
+僅作為個人網站使用
+
+sitemap:
+index.html
